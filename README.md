@@ -1,4 +1,3 @@
-'''
 
 def caesar_cipher(text, shift, mode):
     result = ""
@@ -26,4 +25,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-'''
